@@ -28,7 +28,6 @@ def remove_last_element(array)
   array.pop
   # Step 2: return the array (because Step 1 returns the value of the element removed)
   array
-  array
 end
 
 def remove_first_three_elements(array)
